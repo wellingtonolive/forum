@@ -8,7 +8,7 @@ que está sendo desenvolvida.
 ## Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-  - [Git](https://git-scm.com), 
+  - [Git](https://git-scm.com) 
   - [Java 8](https://www.java.com/pt-BR/download/ie_manual.jsp?locale=pt_BR)
   - [Maven](https://maven.apache.org/download.cgi)
   
@@ -37,7 +37,7 @@ Pronto. A aplicação está disponível em http://localhost:8080
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- [Spring FrameWork](https://spring.io/projects/spring-framework)
+- [Spring Framework](https://spring.io/projects/spring-framework)
 - [Spring Boot](https://spring.io/projects/spring-boot)
 - [Spring MVC](https://docs.spring.io/spring-framework/docs/current/reference/html/web.html#mvc)
 - [Spring Data](https://spring.io/projects/spring-data)
